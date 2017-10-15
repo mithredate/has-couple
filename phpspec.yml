@@ -1,0 +1,4 @@
+suites:
+    prime_suite:
+        namespace: Mithredate\DP
+        psr0_prefix: Mithredate\DP

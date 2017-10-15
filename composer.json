@@ -1,0 +1,22 @@
+{
+    "name": "mithredate/dp",
+    "description": "Testing dynamic programming",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehrdad Hedayati",
+            "email": "mehrdad.hedayati@gmail.com"
+        }
+    ]
+}
